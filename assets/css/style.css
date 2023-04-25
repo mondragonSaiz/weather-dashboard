@@ -37,7 +37,6 @@ li {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  max-width: ;
 }
 .forcast-card {
   margin-right: 5px;
