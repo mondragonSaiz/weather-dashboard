@@ -37,13 +37,14 @@ li {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  max-width: ;
 }
 .forcast-card {
   margin-right: 5px;
   display: flex;
   flex-direction: column;
   color: antiquewhite;
-  min-width: 160px;
+  min-width: 80px;
   min-height: 200px;
   background-color: rgb(8, 59, 153);
 }
